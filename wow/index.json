@@ -1,13 +1,19 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Your first customized scenario - Listing files in Linux",
+  "description": "This scenario is a customized one based on Hello World scenario",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "1 minutes",
   "details": {
-    "steps": [{
-      "title": "Step 1 - Run Command",
+    "steps": [
+      {
+      "title": "Listing Files",
       "text": "step1.md"
-    }],
+    },
+    {
+      "title": "Final Steps",
+      "text": "step2.md"
+    }
+    ],
     "intro": {
       "text": "intro.md",
       "credits": ""
