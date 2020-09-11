@@ -2,7 +2,7 @@
   "title": "Your first customized scenario - Listing files in Linux",
   "description": "This scenario is a customized one based on Hello World scenario",
   "difficulty": "beginner",
-  "time": "1 minutes",
+  "time": "2 minutes",
   "details": {
     "steps": [
       {
